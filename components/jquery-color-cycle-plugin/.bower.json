@@ -1,0 +1,14 @@
+{
+  "name": "jquery-color-cycle-plugin",
+  "homepage": "https://github.com/learn-co-curriculum/jquery-color-cycle-plugin",
+  "version": "0.1.1",
+  "_release": "0.1.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.1",
+    "commit": "e54e8b911c6560f5cacf8eb3779529c49ffedc13"
+  },
+  "_source": "git://github.com/learn-co-curriculum/jquery-color-cycle-plugin.git",
+  "_target": "^0.1.1",
+  "_originalSource": "learn-co-curriculum/jquery-color-cycle-plugin"
+}
